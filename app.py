@@ -15,7 +15,7 @@ from flask import send_file, abort, render_template
 
 
 ROOT_DIR = os.getcwd()
-LOG_FOLDER_NAME = "logs"
+LOG_FOLDER_NAME = "log"
 PIPELINE_FOLDER_NAME = "store"
 SAVED_MODELS_DIR_NAME = "saved_models"
 MODEL_CONFIG_FILE_PATH = os.path.join(ROOT_DIR, CONFIG_DIR, "model.yaml")
