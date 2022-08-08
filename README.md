@@ -1,5 +1,7 @@
 ![](store_sales.png)
 
+
+![](sales.png)
 ## Store Sales ML project.
 
 ### Software and account Requirement.
