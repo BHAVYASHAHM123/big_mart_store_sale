@@ -197,4 +197,4 @@ Now change the directory from ML_Project directory to app dicrectory
 ## Contributors <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> 
 
 - Bhavya M Shah
-- Support of Support Team iNeuron
+- Support Team iNeuron
