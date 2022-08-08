@@ -3,7 +3,7 @@
 
 ## Store Sales ML project.
 
-### :book: Please Go through [Big Mart Store Sales](https://bigmartstoresales.herokuapp.com/) for more info.
+### :globe: Website [Big Mart Store Sales](https://bigmartstoresales.herokuapp.com/) for more info.
 
 ### Software and account Requirement.
 
