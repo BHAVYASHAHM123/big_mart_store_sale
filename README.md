@@ -1,4 +1,4 @@
-
+![](store_sales.png)
 
 ## Store Sales ML project.
 
