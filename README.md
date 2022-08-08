@@ -1,4 +1,6 @@
 ![](sales.png)
+
+
 ## Store Sales ML project.
 
 ### Software and account Requirement.
@@ -9,6 +11,36 @@
 4. [GIT cli](https://git-scm.com/downloads)
 5. [GIT Documentation](https://git-scm.com/docs/gittutorial)
 
+## 📝 Description
+Nowadays, shopping malls and Big Marts keep track of individual item sales data in
+order to forecast future client demand and adjust inventory management. In a data
+warehouse, these data stores hold a significant amount of consumer information and
+particular item details. By mining the data store from the data warehouse, more
+anomalies and common patterns can be discovered.
+
+
+
+## ⏳ Dataset
+- https://raw.githubusercontent.com/BHAVYASHAHM123/store_sale_ml_project/main/store.zip
+
+
+
+## :desktop_computer:	Installation
+
+### :hammer_and_wrench: Requirements
+* Python 3.7+
+* numpy
+* Flask
+* gunicorn
+* sklearn
+* pandas
+* PyYAML
+* evidently
+* dill
+* matplotlib
+* -e .
+
+## :gear: Setup
 
 Creating conda environment
 ```
@@ -157,3 +189,12 @@ COPY . /app
 Here COPY command is used to copy all the (code)file and folder and we have created a folder called app, here it is stored in that and (.) dot represent current directory.
 
 Now change the directory from ML_Project directory to app dicrectory
+
+
+
+
+
+## Contributors <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> 
+
+- Bhavya M Shah
+- Support of Support Team iNeuron
